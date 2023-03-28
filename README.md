@@ -1,1 +1,1 @@
-0x11. C - printf
+A simple printf function built by Samuel Kinyua and Chantal Atieno for ALX Software Engineering School.
